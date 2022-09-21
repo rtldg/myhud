@@ -215,7 +215,7 @@ Scheme
 
 		// Hint message colors
 		"HintMessageFg"			"255 255 255 255"
-		"HintMessageBg" 		"0 0 0 60"
+		"HintMessageBg" 		"0 0 0 0" // original "0 0 0 60"
 
 		"ProgressBarFg"			"255 30 13 255"
 

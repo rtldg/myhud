@@ -33,6 +33,7 @@
 	{
 		"label" "#GameUI_GameMenu_CreateServer"
 		"command" "OpenCreateMultiplayerGameDialog"
+		"OnlyWhenVRActive" "1" // yeets this fucking thing from existence
 	}
 	"7"
 	{
