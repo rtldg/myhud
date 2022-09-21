@@ -5,7 +5,7 @@
 	{
 		"fieldName"		"HudHealth"
 		"xpos"	"8"
-		"ypos"	"446"
+		"ypos"	"9999" // original 446
 		"zpos"	"0"
  		"wide"	"80"
 		"tall"  "25"
@@ -26,7 +26,7 @@
 	{
 		"fieldName"		"HudArmor"
 		"xpos"	"148"
-		"ypos"	"446"
+		"ypos"	"9999" // original 446
 		"zpos"	"1"
 		"wide"	"80"
 		"tall"  "25"
@@ -46,7 +46,7 @@
 	{
 		"fieldName" "HudRoundTimer"
 		"xpos"	"c-28"
-		"ypos"	"446"
+		"ypos"	"9999" // original 446
 		"zpos"	"1"
 		"wide"	"98"
 		"tall"  "25"
@@ -68,7 +68,7 @@
 	{
 		"fieldName" "HudAmmo"
 		"xpos"	"r157"
-		"ypos"	"446"
+		"ypos"	"9999" // original 446
 		"zpos"	"1"
 		"wide"	"142"
 		"tall"  "25"
@@ -96,7 +96,7 @@
 	{
 		"fieldName" "HudAccount"
 		"xpos"	"r123"
-		"ypos"	"394"
+		"ypos"	"9999" // original 394
 		"wide"	"108"
 		"tall"  "45"
 		"visible" "1"
@@ -226,7 +226,7 @@
 	{
 		"fieldName" "HudShoppingCart"
 		"xpos"	"64"
-		"ypos"	"240"
+		"ypos"	"9999" // original 240
 		"wide"	"40"
 		"tall"  "40"
 		"visible" "1"
@@ -241,7 +241,7 @@
 	{
 		"fieldName" "HudC4"
 		"xpos"	"16"
-		"ypos"	"240"
+		"ypos"	"9999" // original 240
 		"wide"	"40"
 		"tall"  "40"
 		"visible" "1"
@@ -258,7 +258,7 @@
 	{
 		"fieldName" "HudDefuser"
 		"xpos"	"16"
-		"ypos"	"240"
+		"ypos"	"9999" // original 240
 		"wide"	"40"
 		"tall"  "40"
 		"visible" "1"
@@ -274,7 +274,7 @@
 	{
 		"fieldName" "HudHostageRescueZone"
 		"xpos"	"16"
-		"ypos"	"240"
+		"ypos"	"9999" // original 240
 		"wide"	"40"
 		"tall"  "40"
 		"visible" "1"
@@ -290,7 +290,7 @@
 	{
 		"fieldName" "HudScenarioIcon"
 		"xpos"	"c110"
-		"ypos"	"443"
+		"ypos"	"9999" // original 240
 		"wide"	"40"
 		"tall"  "44"
 		"visible" "1"
@@ -307,7 +307,7 @@
 		"visible" "1"
 		"enabled" "1"
 		"xpos"	"16"
-		"ypos"	"370"
+		"ypos"	"9999" // original 370
 		"wide"	"102"
 		"tall"	"20"
 		
@@ -552,7 +552,7 @@
 		"visible"	"1"
 		"enabled"	"1"
 		"xpos"		"16"
-		"ypos"		"16"
+		"ypos"		"9999" // original 16
 		"wide"		"96"
 		"tall"		"96"
 	}
@@ -634,7 +634,7 @@
 		"visible"	"0"
 		"enabled" "1"
 		"xpos"		"c-240"
-		"ypos"		"c60"
+		"ypos"		"c10" // original c60
 		"wide"		"480"
 		"tall"		"100"
 		"text_xpos"	"8"
@@ -650,7 +650,7 @@
 		"visible"	"0"
 		"enabled" 	"1"
 		"xpos"		"r120"
-		"ypos"		"r340"
+		"ypos"		"r380" // original 340
 		"wide"		"100"
 		"tall"		"200"
 		"text_xpos"	"8"
