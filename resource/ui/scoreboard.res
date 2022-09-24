@@ -33,7 +33,7 @@
 		"xpos"					"c-290"
 		"ypos"					"c-179"
 		"zpos"					"4"
-		"wide"					"60"
+		"wide"					"150" // original 60
 		"tall"					"15"
 		"visible"				"1"
 		"enabled"				"1"
@@ -49,7 +49,7 @@
 	{
 		"ControlName"			"Label"
 		"fieldName"				"ServerNameLabel"
-		"xpos"					"c-228"
+		"xpos"					"c-170" // original c-228
 		"ypos"					"c-179"
 		"zpos"					"4"
 		"wide"					"345"
