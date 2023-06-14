@@ -832,6 +832,24 @@ Scheme
 				"additive"	"1"
 			}
 		}
+		HudHintTextSmall
+		{
+			"1"
+			{
+				"name"		"Verdana"
+				"tall"		"8"
+				"weight"	"700"
+			}
+		}
+		HudHintTextLarge
+		{
+			"1"
+			{
+				"name"		"Verdana"
+				"tall"		"8"
+				"weight"	"700"
+			}
+		}
 		HudHintText
 		{
 			"1"
